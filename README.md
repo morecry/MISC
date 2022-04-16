@@ -1,5 +1,5 @@
 # MISC
-This is the repository of our ACL 2022 paper MISC: A MIxed Strategy-Aware Model Integrating COMET for Emotional Support ConversatioN
+This is the repository of our ACL 2022 paper MISC: A MIxed Strategy-Aware Model Integrating COMET for Emotional Support Conversation.
 
 Due to limited spare time, we haven't sorted out the code yet.
 
